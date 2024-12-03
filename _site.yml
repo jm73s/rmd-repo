@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "My First Website!"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: 'Play with RMD'
+      href: play_rmd.html
